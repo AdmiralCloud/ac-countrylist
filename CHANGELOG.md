@@ -1,3 +1,12 @@
+<a name="1.0.6"></a>
+
+## [1.0.6](https://github.com/admiralcloud/ac-countrylist/compare/v1.0.5..v1.0.6) (2021-10-09 10:44:02)
+
+
+### Bug Fix
+
+* **App:** Package updates | MP | [1ac55eeefeb838244d51b731afa8082f6034968b](https://github.com/admiralcloud/ac-countrylist/commit/1ac55eeefeb838244d51b731afa8082f6034968b)    
+Package updates
 <a name="1.0.5"></a>
 
 ## [1.0.5](https://github.com/mmpro/ac-countrylist/compare/v1.0.4..v1.0.5) (2020-10-26 15:19:46)
