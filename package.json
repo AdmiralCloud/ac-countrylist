@@ -1,6 +1,6 @@
 {
   "name": "ac-countrylist",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "dependencies": {
     "chai": "^4.3.6",
     "lodash": "^4.17.21"

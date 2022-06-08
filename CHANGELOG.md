@@ -1,3 +1,23 @@
+<a name="1.0.7"></a>
+
+## [1.0.7](https://github.com/admiralcloud/ac-countrylist/compare/v1.0.6..v1.0.7) (2022-06-08 18:17:51)
+
+
+### Bug Fix
+
+* **App:** Changed Turkey to Türkiye | MP | [b1d56db3e8f5cb9d1c6e27c277d0e40df8621caf](https://github.com/admiralcloud/ac-countrylist/commit/b1d56db3e8f5cb9d1c6e27c277d0e40df8621caf)    
+Changed Turkey to Türkiye  
+Related issues: [undefined/undefined#master](undefined/browse/master)
+### Chores
+
+* **App:** Updated gitignore | MP | [37fd39317aee46af14b497042c94cee1cc6ea01e](https://github.com/admiralcloud/ac-countrylist/commit/37fd39317aee46af14b497042c94cee1cc6ea01e)    
+Updated gitignore  
+Related issues: [undefined/undefined#master](undefined/browse/master)
+### Chores
+
+* **App:** Updated packages | MP | [6dde63afc641c5a16ba9b2a5b1f5f12e72619e4f](https://github.com/admiralcloud/ac-countrylist/commit/6dde63afc641c5a16ba9b2a5b1f5f12e72619e4f)    
+Updated packages  
+Related issues: [undefined/undefined#master](undefined/browse/master)
 <a name="1.0.6"></a>
 
 ## [1.0.6](https://github.com/admiralcloud/ac-countrylist/compare/v1.0.5..v1.0.6) (2021-10-09 10:44:02)
