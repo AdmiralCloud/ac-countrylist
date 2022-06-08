@@ -11326,10 +11326,11 @@ module.exports = [
     ]
   },
   {
-    name: 'Turkey',
+    name: 'Türkiye',
     capital: 'Ankara',
     altSpellings: [
       'TR',
+      'Turkey',
       'Turkiye',
       'Republic of Turkey',
       'Türkiye Cumhuriyeti'
