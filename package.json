@@ -9,7 +9,7 @@
   "license": "MIT",
   "devDependencies": {
     "ac-semantic-release": "^0.4.2",
-    "chai": "^4.0.0",
+    "chai": "^4.4.1",
     "eslint": "^8.56.0",
     "mocha": "^10.2.0"
   },
