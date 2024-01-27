@@ -1,3 +1,13 @@
+<a name="1.0.10"></a>
+
+## [1.0.10](https://github.com/admiralcloud/ac-countrylist/compare/v1.0.9..v1.0.10) (2024-01-27 18:10:57)
+
+
+### Bug Fix
+
+* **App:** Package updates | MP | [70886e23c8f842504b7b0a00f43856b78733f2e9](https://github.com/admiralcloud/ac-countrylist/commit/70886e23c8f842504b7b0a00f43856b78733f2e9)    
+Package updates  
+Related issues: [undefined/undefined#master](undefined/browse/master)
 <a name="1.0.9"></a>
 
 ## [1.0.9](https://github.com/admiralcloud/ac-countrylist/compare/v1.0.8..v1.0.9) (2024-01-27 16:24:50)
