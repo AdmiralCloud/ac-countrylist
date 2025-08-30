@@ -8,10 +8,10 @@
   "repository": "admiralcloud/ac-countrylist",
   "license": "MIT",
   "devDependencies": {
-    "ac-semantic-release": "^0.4.6",
+    "ac-semantic-release": "^0.4.7",
     "chai": "^4.5.0",
-    "eslint": "^9.25.0",
-    "mocha": "^11.1.0"
+    "eslint": "^9.34.0",
+    "mocha": "^11.7.1"
   },
   "scripts": {
     "test": "mocha --bail --colors --reporter spec"
