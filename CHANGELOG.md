@@ -1,4 +1,13 @@
 
+## [1.0.16](https://github.com/admiralcloud/ac-countrylist/compare/v1.0.15..v1.0.16) (2026-01-23 13:36:19)
+
+
+### Bug Fix
+
+* **App:** Package updates | MP | [5fc8f5adaf3d74e9eb2a5b4055d592aff4bcdf06](https://github.com/admiralcloud/ac-countrylist/commit/5fc8f5adaf3d74e9eb2a5b4055d592aff4bcdf06)    
+Package updates  
+Related issues:
+
 ## [1.0.15](https://github.com/admiralcloud/ac-countrylist/compare/v1.0.14..v1.0.15) (2025-09-19 05:26:07)
 
 
