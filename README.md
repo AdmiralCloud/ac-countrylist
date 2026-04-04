@@ -3,6 +3,8 @@ This is a little helper to retrieve a countrylist and query this countrylist.
 
 The countrylist is forked from https://gist.github.com/stefanbauer/bf0720c6846a3cc9b59e
 
+[![Node.js CI](https://github.com/AdmiralCloud/ac-countrylist/actions/workflows/node.js.yml/badge.svg)](https://github.com/AdmiralCloud/ac-countrylist/actions/workflows/node.js.yml) [![CodeQL](https://github.com/AdmiralCloud/ac-countrylist/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/AdmiralCloud/ac-countrylist/actions/workflows/github-code-scanning/codeql)
+
 ## Usage
 You can use the countrylist directly by importing countrylist.js. But it is recommended to use this little helper and require this module.
 
