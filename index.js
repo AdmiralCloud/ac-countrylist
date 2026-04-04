@@ -36,19 +36,19 @@ const acCountryList = () => {
 
     if (iso2 || iso3) {
       const findQuery = {}
-      if (iso2) _.set(findQuery, 'alpha2Code', _.toUpper(iso2))
-      else if (iso3) _.set(findQuery, 'alpha3Code', _.toUpper(iso3))  
+      if (iso2) { _.set(findQuery, 'alpha2Code', _.toUpper(iso2)) }
+      else if (iso3) { _.set(findQuery, 'alpha3Code', _.toUpper(iso3)) }  
       return _.find(countryList, findQuery)
     }
     else if (name) {
-      let countries = _.map(countryList, item => {
+      const countries = _.map(countryList, item => {
         return {
           alpha2Code: item.alpha2Code,
           names: _.concat([_.get(item, 'name'), _.get(item, 'nativeName')], _.values(_.get(item, 'translations')))
         }
       })
-      let match = _.find(countries, item => {
-        if (_.indexOf(item.names, name) > -1) return item
+      const match = _.find(countries, item => {
+        if (_.indexOf(item.names, name) > -1) { return item }
       })
       return _.find(countryList, { alpha2Code : _.get(match, 'alpha2Code') })
     }
