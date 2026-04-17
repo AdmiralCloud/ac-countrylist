@@ -1,6 +1,6 @@
 {
   "name": "ac-countrylist",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "dependencies": {
     "lodash": "^4.18.1"
   },
