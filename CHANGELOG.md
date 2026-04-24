@@ -1,3 +1,11 @@
+## [1.0.19](https://github.com/admiralcloud/ac-countrylist/compare/v1.0.18..v1.0.19) (2026-04-24 18:53:39)
+
+
+### Bug Fix
+
+
+* **App:** Package updates | MP | [b50875a8f65079a8b63b081bc02ef6282fde98a6](https://github.com/admiralcloud/ac-countrylist/commit/b50875a8f65079a8b63b081bc02ef6282fde98a6)    
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 ## [1.0.18](https://github.com/admiralcloud/ac-countrylist/compare/v1.0.17..v1.0.18) (2026-04-17 07:51:20)
 
 
